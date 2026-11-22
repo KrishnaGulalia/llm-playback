@@ -30,7 +30,7 @@ LLM tests are slow, cost money and give different answers every run, so teams ei
 npm i -D llm-playback
 ```
 
-Requires Node 18 or newer.
+Requires Node 20 or newer.
 
 ## Quick start
 
